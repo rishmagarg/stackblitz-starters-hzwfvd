@@ -1,6 +1,6 @@
 const express = require('express');
 const { resolve } = require('path');
-const cors = requires('cors');
+const cors = require('cors');
 
 const app = express();
 const port = 3010;
